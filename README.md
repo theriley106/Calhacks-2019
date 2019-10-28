@@ -35,4 +35,33 @@ The DocuSign API - Challenging to find a means to track user activity in an embe
  
 ## What's next for Cosine
 
-Implementing more analytical insights that can help to improve the summarization model. This will continuously improve the quality of the product that the end user sees. 
+Implementing more analytical insights that can help to improve the summarization model. This will continuously improve the quality of the product that the end user sees.
+
+<p align="center">
+  <img src="static/1.jpg" width="700px"/>
+</p> 
+
+<p align="center">
+  <img src="static/2.jpg" width="700px"/>
+</p> 
+
+<p align="center">
+  <img src="static/3.jpg" width="700px"/>
+</p> 
+
+<p align="center">
+  <img src="static/4.jpg" width="700px"/>
+</p> 
+
+<p align="center">
+  <img src="static/5.jpg" width="700px"/>
+</p> 
+
+<p align="center">
+  <img src="static/6.jpg" width="700px"/>
+</p> 
+
+<p align="center">
+  <img src="static/7.jpg" width="700px"/>
+</p> 
+
