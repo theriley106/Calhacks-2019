@@ -1,3 +1,8 @@
+
+
+<h1 align="center"><a href="https://devpost.com/software/cosine-bgxpea">Devpost Link</a></h1>
+
+
 ## Inspiration
 Improve the way Terms and Conditions, Service Agreements, Legal Contracts are presented, reviewed, accepted by everyday people. Serve companies with insights to better their forms and TOC.  
  
